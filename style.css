@@ -1,0 +1,154 @@
+section{   
+    border: 2px solid black;
+    display:flex;
+    background-color:brown;
+    position: sticky;
+    top:0%;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+    font-size:15px;
+    color:white;
+    padding:15px 16px;
+    
+    }
+    #span{
+        color:white;
+        font-size: 20px;
+        position: absolute;
+        left:100px;
+    }
+#camera{
+    position: absolute; 
+    left:30px;
+    background-color: blue;
+    }
+    #button{
+        background-color: brown;
+        color: aqua;
+        height: 35px;
+        width:100px;
+        position: absolute;
+        right:50px;
+        bottom:auto;
+        border-radius: 20px;
+        border-color: aqua;
+    }
+    a.hover{
+        color:aqua;
+    }
+    button.hover{
+        color:aqua;
+    }
+    
+    .heading1{
+        border:1px solid white;
+        background-color:pink;
+        
+    }
+
+    .head1{
+        color:violet;
+        position: absolute;
+        left:25px;
+        font-size:25px;
+    }
+    #para{
+        color:black;
+       
+    }
+    .first{
+        display: flex;
+        justify-content: center;
+       
+       
+
+    }
+    .second{
+        height:250px;
+        width:280px;
+        border:2px solid black;
+        display:flex;
+        flex-direction: column;
+       
+        margin:2px; 
+    }
+    .third{
+        display: flex;
+        border:2px solid black;
+        flex-direction: column;
+        height:200px;
+       width:600px;
+       
+        margin:2px; 
+        background-image: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg" );
+       background-repeat: no-repeat;
+    }
+   #pri{
+    color:aqua;
+    margin: auto;
+       display: block;
+       font-size:15px;
+   }
+   #peehu{
+    color:white;
+    margin: auto;
+       display: block;
+       font-size:25px;
+   }
+   #para1{
+    color:white;
+    display: block;
+   
+   }
+   #button1{
+    
+    color: aqua;
+    height: 35px;
+    width:100px;
+    margin: auto;
+       display: block;
+    bottom:auto;
+    border-radius: 20px;
+    border-color: aqua;
+}
+.fourth{
+    display: flex;
+    border:2px solid black;
+    flex-direction: column;
+    height:200px;
+  
+   background-color: black;
+    margin:2px; 
+}
+.photo{
+    color:white;
+    position: absolute;
+    left:25px;
+    font-size:25px;
+}
+.photo1{
+    color:white;
+    margin: auto;
+       display: block;
+    font-size:25px;
+    top:0%
+}
+.photo2{
+    color:white;
+    position: absolute;
+    right:25px;
+    font-size:25px;
+}
+.photo5{
+    color:white;
+    position: absolute;
+    left:25px;
+    
+}
+
+
+
